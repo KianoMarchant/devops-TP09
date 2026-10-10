@@ -10,7 +10,7 @@ Namespace: devops-portfolio
 ## Recursos Kubernetes usados
 
 |         Recurso         |               Para qué sirve             |
-|-                      --|-                                       --|
+| :--- | :--- |
 | `Namespace`             | Aislar todos los recursos del proyecto   |
 | `Secret`                | Credenciales de Postgres en base64       |
 | `ConfigMap`             | Variables de entorno no sensibles        |
